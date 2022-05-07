@@ -14,9 +14,9 @@ const styles = StyleSheet.create({
        borderColor: "purple",
        paddingVertical: 10,
        paddingHorizontal: 20,
-       borderRadius: 20
+       borderRadius: 20,
    },
    buttonText: {
        color: "purple",
-   }
+   },
 });
